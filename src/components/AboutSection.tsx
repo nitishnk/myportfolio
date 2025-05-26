@@ -34,12 +34,11 @@ const AboutSection: React.FC<AboutSectionProps> = ({ skills }) => {
           </h2>
           <div className="w-20 h-1 bg-blue-600 mx-auto mb-6"></div>
           <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-            I'm a passionate full-stack developer with expertise in building
-            modern web applications. I specialize in creating responsive,
-            user-friendly interfaces and robust backend systems.
+            I'm a CyberSecurtiy enthuiast with expertise and experience in Identity and Access Management. 
+            IAM | Mainframe | Sailpoint | Active Directory | PAM 
+            Learining and Adapting to new technologies to improve my knowledge and skills in Sailpoint development, Blockchain, Web3 and Cloud Security.
           </p>
         </div>
-
         <div className="grid grid-cols-1 md:grid-cols-2 gap-16">
           <div className="flex flex-col justify-center">
             <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">
