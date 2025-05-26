@@ -35,7 +35,7 @@ const AboutSection: React.FC<AboutSectionProps> = ({ skills }) => {
           <div className="w-20 h-1 bg-blue-600 mx-auto mb-6"></div>
           <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
             I'm a CyberSecurtiy enthuiast with expertise and experience in Identity and Access Management. 
-            IAM | Mainframe | Sailpoint | Active Directory | PAM 
+            <br></br>IAM | Mainframe | Sailpoint | Active Directory | PAM <br></br>
             Learining and Adapting to new technologies to improve my knowledge and skills in Sailpoint development, Blockchain, Web3 and Cloud Security.
           </p>
         </div>
